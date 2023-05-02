@@ -1,0 +1,139 @@
+/* trang home */
+#banner{
+    text-align: center;
+}
+.img-banner{
+    display: inline;
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+.banner-text {
+    position: absolute; /* Tách ra khỏi luồng document bình thường */
+    top: 50%; /* Di chuyển top của div xuống giữa của đối tượng cha */
+    left: 50%; /* Di chuyển left của div sang trung tâm nội dung của đối tượng cha*/
+    transform: translate(-50%, -50%);
+    /* Dịch chuyển nội dung lên trên và sang trái tỉ lệ với kích thước div*/
+    background: rgba(24, 24, 24, 0.8);
+    height: 200px;
+    text-align: center;
+    padding-top: 20px;
+
+  }
+#page{
+}
+#content {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+.post1{
+    width: 48%;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-top: 20px;
+}
+.post1 a {
+    color:rgb(252, 252, 253);
+}
+.post1 .title {
+    margin-top: 10px;
+}
+.post2{
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 48%;
+    margin-top: 20px;
+}
+.post2 a {
+    color:rgb(252, 252, 253);
+}
+.post2 .title {
+    margin-top: 10px;
+}
+.img-page {
+    display: flex;
+    justify-content: center;
+    background: url(../../img/bg/4.jpg) center fixed;
+    background-size: contain;
+}
+.img-page img {
+    width: 400px;
+    height: 600px;
+    object-fit: cover;
+    margin: 30px;
+    border-radius: 10%;
+    box-shadow: rgb(252, 252, 253) 0px 20px 30px -10px;
+}
+/* product*/
+#banner-product {
+    text-align: center;
+}
+#banner-product img {
+    display: inline;
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+#banner-product h2 {
+    position: absolute; /* Tách ra khỏi luồng document bình thường */
+    top: 50%; /* Di chuyển top của div xuống giữa của đối tượng cha */
+    left: 50%; /* Di chuyển left của div sang trung tâm nội dung của đối tượng cha*/
+    transform: translate(-50%, -50%);
+    /* Dịch chuyển nội dung lên trên và sang trái tỉ lệ với kích thước div*/
+    background: rgba(24, 24, 24, 0.8);
+    text-align: center;
+    padding: 30px;
+
+}
+.search{
+    color: black;
+    margin-top: 20px;
+}
+.search input{
+    padding: 10px;
+}
+.sanpham{
+    height: 500px;
+    overflow: hidden;
+    text-align: center;
+}
+.sanpham img {
+    border-radius: 10%;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    overflow: hidden;
+    margin-bottom: 30px;
+    width: 400px;
+    height: 400px;
+}
+.sanpham img:hover {
+    transform: scale(2);
+}
+.sanpham h5 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 17px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    width: 250px;
+    margin: 0 auto;
+}
+.sanpham h6 {
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 17px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(3, 3, 3);
+    padding: 5px;
+    width: 250px;
+    margin: 0 auto;
+}
+.sanpham .btn {
+    color: black;
+    font-weight: 600;
+    background-color: white;
+    font-size: 15px;
+    border: none;
+}
