@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "640a9536a188deb19b8f873f"
+  },
+  "TenLoai": "Admin"
+},{
+  "_id": {
+    "$oid": "640a9545a188deb19b8f8740"
+  },
+  "TenLoai": "Người dùng"
+}]

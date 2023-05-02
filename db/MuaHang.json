@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "640ad1dea188deb19b8f874c"
+  },
+  "MaDongHo": {
+    "$oid": "64082c63994a0d706772485a"
+  },
+  "GiaHienTai": "190000",
+  "GiaKM": "190000",
+  "MaDiaChi": {
+    "$oid": "640ad22aa188deb19b8f874e"
+  },
+  "TinhTrang": "Đang xử lý"
+}]

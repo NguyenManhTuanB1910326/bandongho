@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "64082c63994a0d706772485a"
+  },
+  "TenDongHo": "Casio MTP-1374D-1AVDF - Đồng Hồ Nam - Pin / Quartz - Kính Khoáng - Size Mặt 43.5mm - Bảo Hành 5 Năm - Chính Hãng 100%",
+  "Mota": "· Kích thước vỏ: Chiều dài 48.5mm, đường kính 42 mm và độ dày 9.7mm\n\n· Khối lượng: 66g (bao gồm cả dây đeo)\n\nTrọng lượng và kích thước đồng hồ tương đối vừa vặn với hầu hết cổ tay của mọi nam giới Việt (Chu vi vòng cổ tay thường từ 15 – 24cm). Kích thước này đảm bảo khi Casio MTP-1374D-1AVDF được đeo lên bất cứ cổ tay nào thì đềuu rất gọn gàng, tôn lên vẻ mạnh mẽ cho người dùng.\n· Vỏ đồng hồ: Tạo hình nguyên khối bằng thép 316L không gỉ, chắc chắn. Riêng phần núm vặn điều chỉnh giờ được thiết kế thêm gờ bảo vệ gia tăng độ bền.\n\n· Dây đeo: Cũng làm từ thép 316L nên có độ bóng sáng, bền lâu với thời gian.\n\n· Mặt đồng hồ: Mặt kính đồng hồ Casio MTP-1374D-1AVDF là kính Mineral Crystal trong suốt, dễ vệ sinh và thay mới. Tuy nhiên một nhược điểm của dòng kính này là có thể bị trầy xước nếu chịu va đập mạnh. Nhưng công nghệ làm bóng mới sẽ giúp anh em khắc phục điều này dễ dàng.",
+  "HinhAnh": "https://cdn.watchstore.vn/uploads/editor/MTP-1374D-1A-1652241526386.jpg",
+  "HinhAnh2": "https://cdn.watchstore.vn/uploads/editor/MTP-1374D-1A-2-1652241534554.jpg",
+  "GiaBan": {
+    "$numberDecimal": "1760000"
+  },
+  "KhuyenMai": 40,
+  "MaDanhMuc": {
+    "$oid": "6407e5caeab1fe911d81e60c"
+  },
+  "SL": "10"
+},{
+  "_id": {
+    "$oid": "640a8f44106420b1358a38d8"
+  },
+  "TenDongHo": "Casio LTP-V300L-4AUDF - Đồng Hồ Nữ - Pin / Quartz - Kính Khoáng - Size Mặt 33.2mm - Bảo Hành 5 Năm - Chính Hãng 100%",
+  "MaDanhMuc": "6407e62ceab1fe911d81e60d",
+  "Mota": "Đồng hồ đẹp lắm",
+  "HinhAnh": "http://res.cloudinary.com/dkxgovttj/image/upload/v1678412019/LTP-V300L-4A-6-1637553443890.jpg",
+  "HinhAnh1": "http://res.cloudinary.com/dkxgovttj/image/upload/v1678412021/LTP-V300L-4A-2-1637553433346.jpg",
+  "GiaBan": "1200000",
+  "KhuyenMai": "10",
+  "SL": "10"
+},{
+  "_id": {
+    "$oid": "640a93a418e062dcdea98727"
+  },
+  "TenDongHo": "test update",
+  "MaDanhMuc": "6407e62ceab1fe911d81e60d",
+  "Mota": "Đồng hồ đẹp lắm",
+  "HinhAnh": "http://res.cloudinary.com/dkxgovttj/image/upload/v1678412019/LTP-V300L-4A-6-1637553443890.jpg",
+  "HinhAnh1": "http://res.cloudinary.com/dkxgovttj/image/upload/v1678412021/LTP-V300L-4A-2-1637553433346.jpg",
+  "GiaBan": "1200000",
+  "KhuyenMai": "10",
+  "SL": "10"
+}]

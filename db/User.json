@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "640a9424a188deb19b8f873b"
+  },
+  "HoTen": "Mạnh Tuấn",
+  "Email": "tuan@gmail.com",
+  "MatKhau": "4567",
+  "MaLoaiTV": {
+    "$oid": "640a9545a188deb19b8f8740"
+  },
+  "DaXacNhan": true,
+  "SDT": "0356492230"
+},{
+  "_id": {
+    "$oid": "640aa4e0a188deb19b8f8742"
+  },
+  "HoTen": "Admin",
+  "Email": "admin@gmail.com",
+  "MatKhau": "123",
+  "MaloaiTV": {
+    "$oid": "640a9536a188deb19b8f873f"
+  },
+  "DaXacNhan": true
+},{
+  "_id": {
+    "$oid": "640ac57ea53a587d698c0def"
+  },
+  "HoTen": "huyen phan",
+  "Email": "huyen@gmail.com",
+  "MatKhau": "123",
+  "SDT": "0356492230",
+  "MaLoaiTV": {
+    "$oid": "640a9545a188deb19b8f8740"
+  },
+  "DaXacNhan": false
+}]

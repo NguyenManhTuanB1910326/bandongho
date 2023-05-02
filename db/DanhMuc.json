@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6407e5caeab1fe911d81e60c"
+  },
+  "TenDanhMuc": "Đồng Hồ Nam",
+  "DaXoa": false
+},{
+  "_id": {
+    "$oid": "6407e62ceab1fe911d81e60d"
+  },
+  "TenDanhMuc": "Đồng Hồ Nữ",
+  "DaXoa": false
+},{
+  "_id": {
+    "$oid": "6407e847eab1fe911d81e60e"
+  },
+  "TenDanhMuc": "Đồng Hồ Trẻ Em",
+  "DaXoa": false
+}]
